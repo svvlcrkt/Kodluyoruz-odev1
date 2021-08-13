@@ -1,2 +1,2 @@
 # Kodluyoruz-odev1
-Kdoluyoruz Front-End Patikası Ödev 1
+Kodluyoruz Front-End Patikası Ödev 1
